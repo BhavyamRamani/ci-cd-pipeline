@@ -69,6 +69,3 @@ This project serves as a minimal example to understand CI/CD automation using Gi
 Bhavyam Ramani
 
 ---
-
-## License
-This project is licensed under the MIT License.
